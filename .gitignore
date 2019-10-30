@@ -66,3 +66,4 @@ instance/
 # Virtualenv
 venv/
 .venv/
+db/jobs.sqlite
